@@ -11,6 +11,12 @@
 :APB_02_INO: https://github.com/AsmaAbdullah1998/Five-Motors-Circuit/blob/main/circuit1.ino 
 :APB_02_IMG: circuit1.png
 
+:APB_03_LABEL: Circuit2
+:APB_03_LINK: https://www.tinkercad.com/things/6MCpQhbMQhC-controlling-five-motors-with-potentiometer
+:APB_03_BASENAME: circuit2
+:APB_03_INO: https://github.com/AsmaAbdullah1998/Five-Motors-Circuit/blob/main/circuit2.ino
+:APB_03_IMG: circuit2.png
+
 
 
 = Five Motors Circuits (Tinkercad)
@@ -29,6 +35,19 @@ a|
 - **Code** : link:{APB_02_INO}[]
 - **Tinkercad project** : {APB_02_LINK}
 a|image::{APB_02_IMG}[link={APB_02_LINK}, width={SCREENSHOOT_WITDH}]
+|===
+
+== Circuit2
+**This circuit is about controlling five Servo Motors by using the potentiometer for each motor **
+
+==== {APB_03_LABEL}
+
+|===
+| LINKS | SCREENSHOOT
+a|
+- **Code** : link:{APB_03_INO}[]
+- **Tinkercad project** : {APB_03_LINK}
+a|image::{APB_03_IMG}[link={APB_03_LINK}, width={SCREENSHOOT_WITDH}]
 |===
 
 
