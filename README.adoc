@@ -1,0 +1,37 @@
+:numbered:
+:toc: macro
+:sectanchors:
+
+
+:SCREENSHOOT_WITDH: 300
+
+:APB_02_LABEL: Circuit1
+:APB_02_LINK: https://www.tinkercad.com/things/hdND6RXbH2V-5-servo-motors
+:APB_02_BASENAME: pic
+:APB_02_INO: https://github.com/AsmaAbdullah1998/Five-Motors-Circuit/blob/main/circuit1.ino 
+:APB_02_IMG: 
+
+
+
+= Five Motors Circuits (Tinkercad)
+
+
+
+== Circuit1
+**This circuit is about controlling five Servo Motors with initial zero degree to 90 degree by Arduino **
+
+
+==== {APB_02_LABEL}
+
+|===
+| LINKS | SCREENSHOOT
+a|
+- **Code** : link:{APB_02_INO}[]
+- **Tinkercad project** : {APB_02_LINK}
+a|image::{APB_02_IMG}[link={APB_02_LINK}, width={SCREENSHOOT_WITDH}]
+|===
+
+
+
+
+
